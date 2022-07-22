@@ -31,4 +31,6 @@
 - Изучаю Vue.js
 - Практикуюсь и оттачиваю навыки по JS
 
-![image](https://github.com/tlenchik/tlenchik/blob/main/nyan.gif)
+
+<br>
+<img src="https://github.com/tlenchik/tlenchik/blob/main/nyan.gif" style="width: 50%;">
