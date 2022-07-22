@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-- 👾 Меня зовут Елена и я начинаю свой путь в веб-разработке!
+- 👾 Меня зовут Елена и я начинающий веб-разработчик 🐣
 
 - 🎓 В 2014 году я закончила обучение в [ЮРГПУ (НПИ) имени М.И.Платова](https://www.npi-tu.ru/), по специальности «Информационные системы и технологии» факультета [информационных технологий и управления](https://www.npi-tu.ru/university/faculty/fitu/).
 
@@ -28,9 +28,25 @@
 - API Яндекс Карт
 
 #### ⌛ В процессе:
-- Изучаю Vue.js
-- Практикуюсь и оттачиваю навыки по JS
+- Практикуюсь и оттачиваю навыки по JS и верстке
 
+#### 💭 В планах:
+- Изучение Vue.js
 
-<br>
+<p align="center">
 <img src="https://github.com/tlenchik/tlenchik/blob/main/nyan.gif" style="width: 50%;">
+</p>
+
+<p align="center">
+🐌✨🍄🧚🏼🧙🍃🌿
+</p>
+<p align="center">
+follow me in
+</p>
+
+<p align="center">
+<a href="https://career.habr.com/elena_sobol">career.habr.com</a> ✧ 
+<a href="https://krasnodar.hh.ru/resume/575c183bff0b08ca090039ed1f345779634970">hh.ru</a> ✧
+<a href="https://t.me/tlenchiik">telegram</a> ✧
+<a href="https://vk.com/tlenchiik">vk</a>
+</p>
