@@ -46,7 +46,7 @@ follow me in
 
 <p align="center">
 <a href="https://career.habr.com/elena_sobol">career.habr.com</a> ✧ 
-<a href="https://krasnodar.hh.ru/resume/575c183bff0b08ca090039ed1f345779634970">hh.ru</a> ✧
+<a href="https://krasnodar.hh.ru/resume/6275d15eff0b1ac8b30039ed1f335936703653">hh.ru</a> ✧
 <a href="https://t.me/matryosshkaa">telegram</a> ✧
 <a href="https://vk.com/matryosshka">vk</a>
 </p>
