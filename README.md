@@ -34,7 +34,7 @@
 - Изучение Vue.js
 
 <p align="center">
-<img src="https://github.com/tlenchik/tlenchik/blob/main/nyan.gif" style="width: 50%;">
+<img src="https://github.com/matryosshka/matryosshka/blob/main/nyan.gif" style="width: 50%;">
 </p>
 
 <p align="center">
@@ -47,6 +47,6 @@ follow me in
 <p align="center">
 <a href="https://career.habr.com/elena_sobol">career.habr.com</a> ✧ 
 <a href="https://krasnodar.hh.ru/resume/575c183bff0b08ca090039ed1f345779634970">hh.ru</a> ✧
-<a href="https://t.me/tlenchiik">telegram</a> ✧
-<a href="https://vk.com/tlenchiik">vk</a>
+<a href="https://t.me/matryosshkaa">telegram</a> ✧
+<a href="https://vk.com/matryosshka">vk</a>
 </p>
